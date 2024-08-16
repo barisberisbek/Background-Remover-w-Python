@@ -2,7 +2,7 @@
 
 Background Remover is a Python script that removes the background from an image using the `rembg` library.
 
-![BeforeAfter]( 
+<img src="Screen_shots/screenshot.png" alt="Game Image 1">
 
 ## Installation
 
